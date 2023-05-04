@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/yasser-mohamed-5ba73a198" target="_blank"><img src="https://img.shields.io/badge/-Yasser%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
