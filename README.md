@@ -8,9 +8,8 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=B307C9&center=true&width=431&lines=I'm+A+Frontend+Developer;+Always+learning+new+things" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=B307C9&center=true&width=431&lines=I'm+A+Web+Developer;+Always+learning+new+things" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=B307C9&center=true&width=431&lines=I'm+A+Backend+Developer;+Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=B307C9&center=true&width=431&lines=I'm+A+Web+Developer;+I'm+A+Frontend+Developer;+Always+learning+new+things;+I'm+A+Backend+Developer" alt="Typing SVG" /></a>
+
 </p> 
 
 - 🏢 I'm a Web Developer 
