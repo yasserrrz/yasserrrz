@@ -11,7 +11,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=B307C9&center=true&width=431&lines=I'm+A+Frontend+Developer;+Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Forntend Developer 
+- 🏢 I'm a Web Developer 
+- 🏢 I'm a Frontend Developer 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript and ReactJS, or anything related to Frontend development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
